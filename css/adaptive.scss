@@ -1,0 +1,45 @@
+@media screen and (max-width:530px){
+
+    .wrp_head {
+    justify-content: center;
+    }
+
+   #adress{
+     text-align: center;
+     margin-top: 10px;
+     font-size: 20px;
+   }
+
+   .photo-slider {
+     display: none;
+   }
+
+   .lsb{
+     h1{
+       font-size: 25px;
+     }
+   }
+
+
+   .query-item-title{
+     font-size: 10px;
+     text-align:left;
+     margin-left: 5px;
+     img{
+       width: 20px;
+       height: 20px;
+     }
+   }
+   .query-item-text{
+     font-size: 10px;
+   }
+
+   .contact-list{
+     font-size: 16px;
+   }
+
+   .footer-content{
+     justify-content: center;
+     flex-direction:column-reverse;
+   }
+}
